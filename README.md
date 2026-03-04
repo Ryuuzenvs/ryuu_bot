@@ -5,16 +5,15 @@
 ║ 🛠️ Informasi Script
 ╠═════════════════════════════════╣
 ║ 📦 Version    : 5.1.0
-║ 👨‍💻 Developer  : Azhari Creative
+║ 👨‍💻 Developer  : Ryuuzenvs, Ryuu
 ║ 🌐 Website    : autoresbot.com
-║ 💻 GitHub     : github.com/autoresbot/resbot-md
+║ 💻 GitHub     : github.com/ryuuzenvs
 ╚═════════════════════════════════╝
 ```
 
 ```javascript
 ⚠️ Peringatan:
 SCRIPT INI TIDAK BOLEH DIPERJUALBELIKAN.
-[👉 autoresbot.com](https://autoresbot.com)
 ```
 
 # API USE from api.autoresbot.com
