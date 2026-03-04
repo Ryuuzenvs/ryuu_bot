@@ -3,7 +3,7 @@
 import moment from 'moment-timezone';
 
 const CONNECTION = 'pairing'; // qr atau pairing
-const OWNER_NAME = 'Autoresbot';
+const OWNER_NAME = 'Ryuu';
 const NOMOR_BOT = '84878311691'; // 628xx nomor wa - 6285124002201
 const DESTINATION = 'group'; // group , private, both
 const APIKEY = ''; // apikey dari autoresbot.com (paket apikey)
@@ -12,13 +12,13 @@ const SIMILARITY = true; // Pencarian kemiripan command (true, false)
 const MODE = 'development'; // [production, development] (jangan di ubah kecuali anda developer)
 const VERSION = global.version; // don't edit
 
-const EMAIL = '';
+const EMAIL = 'dhanakaede@gmail.com';
 const REGION = 'Indonesia';
-const WEBSITE = '';
+const WEBSITE = 'ryuu.page.gd';
 const DATA_OWNER = ['6285809839062', '628'];
 
 // Konfiqurasi Chat
-const ANTI_CALL = false; // jika true (setiap yang nelpon pribadi akan di block)
+const ANTI_CALL = true; // jika true (setiap yang nelpon pribadi akan di block)
 const AUTO_READ = false; // jika true (setiap chat akan di baca/centang 2 biru)
 const AUTO_BACKUP = false; // jika true (setiap restart server, data backup di kirimkan ke wa owner);
 const MIDNIGHT_RESTART = false; // Restart setiap jam 12 malam
