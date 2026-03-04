@@ -23,17 +23,23 @@
     "aliases": [
       "6285809839062@s.whatsapp.net"
     ],
-    "money": 9999999900,
-    "limit": 1,
-    "level_cache": 17,
-    "level": 4,
+    "money": 9489499934,
+    "limit": 17,
+    "level_cache": 41,
+    "level": 5,
     "role": "user",
     "achievement": "gamers",
     "status": "aktif",
     "afk": null,
     "createdAt": "2026-02-15T06:20:12.124Z",
-    "updatedAt": "2026-02-16T01:24:43.202Z",
-    "lastClaim": 1771139477067
+    "updatedAt": "2026-02-17T05:27:22.789Z",
+    "lastClaim": 1771305810244,
+    "terjawab": [
+      1,
+      7,
+      5,
+      3
+    ]
   },
   "cc75d65ca03aaa1619c5ff65c6a": {
     "username": "user_6283157116089@s.whatsapp.net",
@@ -59,19 +65,21 @@
     "aliases": [
       "6285748357327@s.whatsapp.net"
     ],
-    "money": 0,
+    "money": 9999949999,
     "limit": 99999999999,
-    "level_cache": 62,
-    "level": 1,
+    "level_cache": 15,
+    "level": 2,
     "role": "user",
     "achievement": "gamers",
-    "status": "afk",
-    "afk": {
-      "lastChat": "2026-02-16T01:22:41.013Z",
-      "alasan": "Tanpa Alasan"
-    },
+    "status": "aktif",
+    "afk": null,
     "createdAt": "2026-02-15T06:31:51.615Z",
-    "updatedAt": "2026-02-16T01:22:41.013Z"
+    "updatedAt": "2026-02-17T05:27:08.123Z",
+    "terjawab": [
+      9,
+      7,
+      5
+    ]
   },
   "cfb7b481baea6aab19c600078ea": {
     "username": "user_6285281198746@s.whatsapp.net",
@@ -80,14 +88,14 @@
     ],
     "money": 10,
     "limit": 99999,
-    "level_cache": 34,
+    "level_cache": 37,
     "level": 2,
     "role": "user",
     "achievement": "gamers",
     "status": "aktif",
     "afk": null,
     "createdAt": "2026-02-15T06:32:49.642Z",
-    "updatedAt": "2026-02-15T07:32:49.368Z",
+    "updatedAt": "2026-02-16T15:09:37.748Z",
     "premium": "+029405-03-12T07:12:26.693Z"
   },
   "00a6cda798f738da19c6015bc2c": {
@@ -108,5 +116,24 @@
     },
     "createdAt": "2026-02-15T06:56:03.116Z",
     "updatedAt": "2026-02-15T06:56:03.116Z"
+  },
+  "776439d2b5aff95719c6a11289c": {
+    "username": "user_6289517610213@s.whatsapp.net",
+    "aliases": [
+      "6289517610213@s.whatsapp.net"
+    ],
+    "money": 0,
+    "limit": 0,
+    "level_cache": 0,
+    "level": 1,
+    "role": "user",
+    "achievement": "gamers",
+    "status": "active",
+    "afk": {
+      "lastchat": 0,
+      "alasan": null
+    },
+    "createdAt": "2026-02-17T05:27:15.356Z",
+    "updatedAt": "2026-02-17T05:27:15.356Z"
   }
 }
