@@ -6,7 +6,7 @@
 ╠═════════════════════════════════╣
 ║ 📦 Version    : 5.1.0
 ║ 👨‍💻 Developer  : Ryuuzenvs, Ryuu
-║ 🌐 Website    : autoresbot.com
+║ 🌐 Website    : ryuu.page.gd
 ║ 💻 GitHub     : github.com/ryuuzenvs
 ╚═════════════════════════════════╝
 ```
