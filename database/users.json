@@ -48,7 +48,7 @@
     ],
     "money": 0,
     "limit": 0,
-    "level_cache": 11,
+    "level_cache": 13,
     "level": 1,
     "role": "user",
     "achievement": "gamers",
@@ -58,7 +58,7 @@
       "alasan": null
     },
     "createdAt": "2026-02-15T06:21:46.986Z",
-    "updatedAt": "2026-03-15T03:27:08.135Z"
+    "updatedAt": "2026-03-15T03:55:31.331Z"
   },
   "598fe445aad53b6e19c5fff963f": {
     "username": "user_6285748357327@s.whatsapp.net",
@@ -162,7 +162,7 @@
     ],
     "money": 0,
     "limit": 0,
-    "level_cache": 6,
+    "level_cache": 7,
     "level": 1,
     "role": "user",
     "achievement": "gamers",
@@ -172,7 +172,7 @@
       "alasan": null
     },
     "createdAt": "2026-03-15T03:04:46.041Z",
-    "updatedAt": "2026-03-15T03:39:23.585Z"
+    "updatedAt": "2026-03-15T03:52:45.700Z"
   },
   "b263b164bf21792719cef786478": {
     "username": "user_6285293726774@s.whatsapp.net",

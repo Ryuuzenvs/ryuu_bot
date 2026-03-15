@@ -23,7 +23,7 @@ const AUTO_READ = false; // jika true (setiap chat akan di baca/centang 2 biru)
 const AUTO_BACKUP = false; // jika true (setiap restart server, data backup di kirimkan ke wa owner);
 const MIDNIGHT_RESTART = false; // Restart setiap jam 12 malam
 const PRESENCE_UPDATE = ''; // unavailable, available, composing, recording, paused
-const TYPE_WELCOME = '1'; // 1, 2, 3, 4, 5, 6 text dan random
+const TYPE_WELCOME = 'random'; // 1, 2, 3, 4, 5, 6 text dan random
 const BG_WELCOME2 = 'https://api.autoresbot.com/api/maker/bg-default';
 
 // Konfiqurasi Panel
